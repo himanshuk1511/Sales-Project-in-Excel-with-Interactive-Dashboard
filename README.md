@@ -30,7 +30,7 @@ This helps the store owner understand customer behavior and identify opportuniti
 - Identify **top sales channels**  
 - Determine **highest selling category**  
 - Calculate **% of total orders delivered**
-- Dashboard Interaction 
+- Dashboard Interaction (https://github.com/himanshuk1511/Sales-Project-in-Excel-with-Interactive-Dashboard/blob/main/Sales%20Project%20in%20Excel%20with%20Interactive%20Dashboard.pdf)
 
 ---
 
