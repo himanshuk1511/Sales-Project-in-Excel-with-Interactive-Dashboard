@@ -1,4 +1,4 @@
-# Store Data Analysis Project with Interactive Dashboard (MS Excel)
+# Store Data Analysis Project with Interactive Dashboard (Excel)
 
 
 
