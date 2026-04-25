@@ -1,6 +1,5 @@
-# Store Data Analysis Project with Interactive Dashboard (Excel)
-
-# 📊 Vrinda Store Data Analysis (Excel Dashboard Project)
+# 📊 Store Data Analysis Project with Interactive Dashboard (Excel)
+<img width="1134" height="533" alt="Screenshot 2026-03-24 023134" src="https://github.com/user-attachments/assets/79c6ddc1-eaf2-47bd-9de6-88ab856edc92" />
 
 ## 📌 Project Objective
 The goal of this project is to create an **interactive annual sales dashboard (2022)** for Vrinda Store using Microsoft Excel.  
@@ -102,22 +101,5 @@ To boost sales, Vrinda Store should:
 - `Vrinda_Dashboard.xlsx` → Final dashboard  
 - `Screenshot.png` → Dashboard preview  
 
----
 
-## 🚀 How to Use
-
-1. Download the Excel file  
-2. Open in Microsoft Excel (2016 or later recommended)  
-3. Use slicers to interact with the dashboard  
-4. Explore insights dynamically  
-
----
-
-## 📬 Contact
-
-If you have any questions or suggestions, feel free to connect!
-
-
-
-<img width="1134" height="533" alt="Screenshot 2026-03-24 023134" src="https://github.com/user-attachments/assets/79c6ddc1-eaf2-47bd-9de6-88ab856edc92" />
 
