@@ -30,6 +30,7 @@ This helps the store owner understand customer behavior and identify opportuniti
 - Identify **top sales channels**  
 - Determine **highest selling category**  
 - Calculate **% of total orders delivered**
+- Dashboard Interaction 
 
 ---
 
